@@ -129,7 +129,7 @@ Tables used:
 
 ### Revenue vs Financing Duration by Product Category
 
-*(Insert scatter plot screenshot here)*
+![image alt](https://github.com/Girdhari16/Olist-Credit-Card-Installment-Analysis/blob/b26e06f76ffe3883515d5d1b940b381a763d0a48/Screenshot%202026-07-20%20170637.png)
 
 ---
 
