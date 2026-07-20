@@ -133,9 +133,9 @@ Tables used:
 
 ---
 
-### Payment Method Revenue Analysis
+### Top 10 Product Categories by Credit Revenue
 
-*(Insert payment method chart here)*
+![image alt](https://github.com/Girdhari16/Olist-Credit-Card-Installment-Analysis/blob/16fc496b54166cd85bfdb24f601d3415c59a5b9c/Screenshot%202026-07-20%20165230.png)
 
 ---
 
