@@ -145,6 +145,10 @@ Tables used:
 
 ---
 
+### Top 10 Product Categories by Average Installment Length
+
+![image alt](https://github.com/Girdhari16/Olist-Credit-Card-Installment-Analysis/blob/7a2cfc297ae18ccda25b6ec70f956b60ee12f1c0/Screenshot%202026-07-20%20165210.png)
+
 # 📂 Repository Structure
 
 ```
