@@ -139,9 +139,9 @@ Tables used:
 
 ---
 
-### Installment Distribution
+### Credit Card Behavior: Installment Count vs Orders & Average Value
 
-*(Insert installment analysis chart here)*
+![image alt](https://github.com/Girdhari16/Olist-Credit-Card-Installment-Analysis/blob/9c2be925845bf43b55e7e0f049b37559160a3c7e/Screenshot%202026-07-20%20165145.png)
 
 ---
 
