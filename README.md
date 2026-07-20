@@ -12,7 +12,7 @@ The analysis demonstrates that longer installment periods do not necessarily gen
 
 # 🎯 Business Problem
 
-Installment payment options increase customers' purchasing power, but they also delay cash inflow for businesses. The key challenge is identifying which product categories truly benefit from longer financing periods and which categories generate strong revenue without requiring extended installment durations.
+Installment payments increase customers' purchasing power but delay business cash flow. The objective of this project is to identify which product categories justify extended financing and which categories unnecessarily lock business capital.
 
 This project answers the following business questions:
 
@@ -149,6 +149,23 @@ Tables used:
 
 ![image alt](https://github.com/Girdhari16/Olist-Credit-Card-Installment-Analysis/blob/7a2cfc297ae18ccda25b6ec70f956b60ee12f1c0/Screenshot%202026-07-20%20165210.png)
 
+
+# 🛠 Skills Demonstrated
+
+- SQL Joins
+- Common Table Expressions (CTEs)
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis
+- Feature Engineering
+- Business Analytics
+- Data Visualization
+- Business Storytelling
+
+---
+
+
+
 # 📂 Repository Structure
 
 ```
@@ -156,6 +173,4 @@ Olist-Credit-Card-Installment-Analysis
 │
 ├── Credit_Card_Analysis.ipynb
 ├── README.md
-├── requirements.txt
-└── images/
 ```
