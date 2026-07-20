@@ -173,4 +173,9 @@ Olist-Credit-Card-Installment-Analysis
 │
 ├── Credit_Card_Analysis.ipynb
 ├── README.md
+└── images/
+    ├── revenue_financing_matrix.png
+    ├── top_credit_revenue.png
+    ├── installment_behavior.png
+    └── avg_installment.png
 ```
